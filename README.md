@@ -1,8 +1,8 @@
 ## 👋 Olá, eu sou o Allan Mateus!
 <h4>⚡Analista de Dados com formação em tecnologia.</h4>
 <small>Atuo há mais 5 anos em TI, com passagens por empresas do varejo, indústria de alimentos e tecnologia.</small></br>
-<small>Utilizo o meu conhecimento de negócios aliado à tecnologias como: SQL, Python, Power BI e Excel<br> para obter insigths que apoiem as tomadas de decisão através de dados.</small>
-<small>Entregando projetos dados de ponta a ponta, desde o ETL, percorrendo as etapas de análise, storytelling, dataviz e apresentação.</small>
+<small>Utilizo o meu conhecimento de negócios aliado à tecnologias como: SQL, Python, Power BI e Excel<br> para obter insigths que apoiem as tomadas de decisão através de dados.</small></br>
+<small>Entregando projetos de ponta a ponta, desde o ETL, percorrendo as etapas de análise, storytelling, dataviz e apresentação.</small>
 </br></br>
   
  <span>🌱🧠 Ferramentas que mais utilizo no cotidiano e sigo me aprimorando constantemente:</span>
