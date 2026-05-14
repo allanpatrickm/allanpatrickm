@@ -20,7 +20,7 @@
          <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>     
     </div>
 </br>
-<span>📩 Você pode me encontrar por aqui aqui:</span> 
+<span>📩 Você pode me encontrar por aqui:</span> 
 </br>
 </br>
 <span><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/> </span>
