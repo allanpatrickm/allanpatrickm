@@ -31,7 +31,9 @@
 </br>
 <span>Também estou no Medium: </span> <a href="https://medium.com/@allanpmateus">Confira meus artigos</a>.
 <br><br>
-<span>📊🚀 Veja alguns dos meus projetos de dados nos repositórios abaixo.⬇️ </span>
+<span>📊 Amostra de dashboards que desenvolvi: </span> <a href="https://docs.google.com/presentation/d/12VvgJQ8ujHixTxTtykgMYJfUuK52o1qfVvsAk8fA0Yo/edit?usp=sharing">Exemplos aqui</a>.
+<br><br>
+<span>🚀 Veja mais alguns dos meus projetos de dados nos repositórios abaixo.⬇️ </span>
 <br>
 
 
